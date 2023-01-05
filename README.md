@@ -1,2 +1,2 @@
 # palindromus
-Rest api to veritify if a string is a palindrome
+To veritify if a string is a palindrome
